@@ -1,0 +1,93 @@
+# Project
+site_name: Memoristik
+site_url: https://memoristik.github.io/
+site_author: Levent Sönmez
+site_description: >-
+  Memoristik Documents
+repo_name: memoristik/memoristik.github.io
+repo_url: https://github.com/memoristik/memoristik.github.io
+copyright: Copyright &copy; 2023 Memoristik
+
+# Config
+theme:
+  name: material
+  custom_dir: theme
+  logo: images/logo.png
+  favicon: images/favicon.png
+  features:
+    - announce.dismiss
+    #- content.action.edit
+    #- content.action.view
+    #- content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+extra_css:
+  - "assets/css/custom.css"
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/memoristik
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/memoristik
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/hQBfvMnzhk
+  alternate:
+    - name: Türkçe
+      link: /tr/genel
+    - name: English
+      link: /en/overview
+    - name: Қазақша
+      link: /kz/
+    - name: Русский
+      link: /ru/
+
+nav:
+  - "Türkçe":
+    - "Genel Bakış": "tr/genel.md"
+    - "Örnekler": "tr/ornekler.md"
+    - "Lisans": "tr/lisans.md"
+  - "English":
+    - "Overview": "en/overview.md"
+    - "Examples": "#" #"en/examples.md"
+    - "License": "en/license.md"
+  - "Қазақша":
+    - "Жалпы шолу": "#" #"kz/overview.md"
+    - "Мысалдар": "#" #"kz/examples.md"
+  - "Русский":
+    - "Общий обзор": "#" #"ru/overview.md"
+    - "Примеры": "#" #"ru/examples.md"
