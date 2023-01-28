@@ -1,11 +1,11 @@
 # Project
 site_name: Memoristik
 site_url: https://memoristik.github.io/
-site_author: Levent Sönmez
+site_author: Levent Sönmez, Anara Ospanova
 site_description: >-
-  Memoristik Documents
-repo_name: memoristik/memoristik.github.io
-repo_url: https://github.com/memoristik/memoristik.github.io
+  Memoristik, bu iş bizde
+repo_name: memoristik/
+repo_url: https://github.com/memoristik/
 copyright: Copyright &copy; 2023 Memoristik
 
 # Config
@@ -83,11 +83,14 @@ nav:
     - "Lisans": "tr/lisans.md"
   - "English":
     - "Overview": "en/overview.md"
-    - "Examples": "#" #"en/examples.md"
+    - "Examples": "en/examples.md"
     - "License": "en/license.md"
   - "Қазақша":
-    - "Жалпы шолу": "#" #"kz/overview.md"
-    - "Мысалдар": "#" #"kz/examples.md"
+    - "Жалпы шолу": "kz/zhalpy.md"
+    - "Мысалдар": "kz/mysaldar.md"
+    - "лицензия": "kz/litsenziya.md"
   - "Русский":
-    - "Общий обзор": "#" #"ru/overview.md"
-    - "Примеры": "#" #"ru/examples.md"
+    - "Общий обзор": "ru/obshchiy.md"
+    - "Примеры": "ru/primery.md"
+    - "лицензия": ru/litsenziya.md
+
