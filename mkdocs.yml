@@ -58,6 +58,15 @@ theme:
 extra_css:
   - "assets/css/custom.css"
 
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - footnotes
+  - toc:
+      title: "{#...}"
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -68,9 +77,9 @@ extra:
       link: https://discord.gg/hQBfvMnzhk
   alternate:
     - name: Türkçe
-      link: /tr/genel
+      link: /tr/
     - name: English
-      link: /en/overview
+      link: /en/
     - name: Қазақша
       link: /kz/
     - name: Русский

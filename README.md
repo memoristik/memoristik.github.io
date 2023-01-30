@@ -2,9 +2,12 @@
 
 {@memoristik} // soon
 
+## Translations (En/Kz/Ru):
+Anara Ospanova
 
 ## Project Repo
 https://github.com/memoristik
+
 https://gitlab.com/memoristik
 
 ## Documentation
