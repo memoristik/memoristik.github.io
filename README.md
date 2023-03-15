@@ -14,4 +14,4 @@ https://gitlab.com/memoristik
 https://memoristik.github.io/
 
 ## Discord Community
-https://discord.gg/hQBfvMnzhk
+https://discord.gg/3PHfMgzhSp
