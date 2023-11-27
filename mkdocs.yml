@@ -88,7 +88,7 @@ extra:
 nav:
   - "Türkçe":
     - "Genel Bakış": "tr/genel.md"
-    - "Örnekler": "tr/ornekler.md"
+    - "Kullanım Alanları / Örnekler": "tr/ornekler.md"
     - "Lisans": "tr/lisans.md"
   - "English":
     - "Overview": "en/overview.md"
