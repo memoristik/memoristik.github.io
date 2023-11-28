@@ -2,9 +2,9 @@
 
 **Memoristik Projesi, senelerdir hem kullanıcı hem geliştirici olarak karşımıza çıkan bazı problemlerin çözüm yollarını bulmak, kişisel haklarımızı korumaya çalışmak, elimizin altındaki teknolojiyi daha verimli kullanmak, üretilen verilerin paylaşımını ve işlevselliğini artırmak gibi sebeplerle ortaya çıktı.**
 
-**Bu ve benzeri amaçlarla, farklı alanlarda geliştirilmiş açık kaynaklı projelerin bir araya getirilmesi, kullanıma uygun amaçlı değişiklikler yapılması, eksik olanların tamamlanması alanlarında çalışmalar yapılması planlanmaktadır.**
+**Bu ve benzeri amaçlarla, çalışma gruplarının oluşturulması, farklı alanlarda geliştirilmiş açık kaynaklı projelerin bir araya getirilmesi, kullanıma ve amaca uygun şekilde değişiklikler yapılması, eksik olanların tamamlanması, RFC'lerin hazırlanması ve ___yeni bir İnternet Protokolünün kullanıma sokulması___ planlanmaktadır.**
 
-**Teknik altyapının tamamlanması sonrasında, farklı gruplar kurularak oluşturulan protokol üzerinde Kimlik, Akademi, Medya, Sürdürülebilirlik, İletişim, Güvenilir & Takip Edilebilir Kaynaklar gibi konularda eğitim ve veri paylaşımı çalışmalarının başlatılması, protokolün verimli kullanımı için uygulamalar hazırlanması öngörülmektedir.**
+**Teknik altyapının tamamlanması ve oluşturulan protokolün kullanılmaya başlanması sonrasında, farklı gruplar kurularak Kimlik, Akademi, Medya, Sürdürülebilirlik, İletişim, Güvenilir & Takip Edilebilir Kaynaklar gibi konularda eğitim ve veri paylaşımı çalışmalarının başlatılması, protokolün verimli kullanımı için uygulamalar hazırlanması öngörülmektedir.**
 
 ---
 
@@ -43,7 +43,7 @@
 
 - ### Tekrarlanan Gereksiz Veriler
 
-    Özellikle "ürün"ler konusunda, aynı veriler o ürünün yer aldığı her farklı ortam içerisinde tekrarlanıyor. Örneğin, bir ürüne ait teknik bilgiler, o ürünün satışının yapıldığı sitelerde baştan giriliyor. Bu da emeğin boş yere harcanmasına sebep oluyor.
+    Özellikle "ürün"ler konusunda, aynı veriler o ürünün yer aldığı her farklı ortam içerisinde tekrarlanıyor. Örneğin, bir ürüne ait teknik bilgiler, aynı içeriğe sahip olmasına rağmen, o ürünün satışının yapıldığı sitelerde her seferinde baştan giriliyor.
 
 - ### Platform Bağımlılıkları
 

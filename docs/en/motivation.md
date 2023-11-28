@@ -2,9 +2,9 @@
 
 **The Memoristik Project emerged for reasons such as finding solutions to some of the problems we have encountered as both users and developers for years, trying to protect our personal rights, using the technology at our disposal more efficiently and increasing the sharing and functionality of the data produced.**
 
-**For these and similar purposes, it is planned to work on bringing together open source projects developed in different fields, making changes suitable for use, and completing the missing ones.**
+**For these and similar purposes, it is planned to establish working groups, to bring together open source projects developed in different fields, to make changes in accordance with the use and purpose, to complete the missing ones, to prepare RFCs, and ___to put a new Internet Protocol into use___.**
 
-**After the completion of the technical infrastructure, it is planned to initiate training and data sharing activities on issues such as Identity, Academy, Media, Sustainability, Communication, Trusted & Traceable Sources and to prepare applications for the efficient use of the protocol.**
+**After the completion of the technical infrastructure and the start of the use of the protocol, it is envisaged that different groups will be established and training and data sharing activities will be initiated on issues such as Identity, Academia, Media, Sustainability, Communication, Reliable & Traceable Resources, and applications will be prepared for the efficient use of the protocol.**
 
 ---
 
@@ -43,7 +43,7 @@ Many issues that have become habitual and considered as must-haves during the in
 
 - ### Repeated Redundant Data
 
-    Especially in the case of "products", the same data is repeated in every different environment where that product is available. For example, technical information about a product is re-entered on the sites where that product is sold. This leads to wasted labor.
+    Especially in the case of "products", the same data is repeated in every different environment where that product is available. For example, the technical information for a product is re-entered each time on the sites where that product is sold, despite having the same content.
 
 
 - ### Platform Dependencies
