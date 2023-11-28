@@ -2,7 +2,7 @@
 
 **The Memoristik Project emerged for reasons such as finding solutions to some of the problems we have encountered as both users and developers for years, trying to protect our personal rights, using the technology at our disposal more efficiently and increasing the sharing and functionality of the data produced.**
 
-**For these and similar purposes, it is planned to establish working groups, to bring together open source projects developed in different fields, to make changes in accordance with the use and purpose, to complete the missing ones, to prepare RFCs, and ___to put a new Internet Protocol into use___.**
+**For these and similar purposes, it is planned to create working groups and an environment, bring together open source projects developed in different fields, make changes in accordance with the use and purpose, complete the missing ones, prepare RFCs and ___introduce a new Internet Protocol___.**
 
 **After the completion of the technical infrastructure and the start of the use of the protocol, it is envisaged that different groups will be established and training and data sharing activities will be initiated on issues such as Identity, Academia, Media, Sustainability, Communication, Reliable & Traceable Resources, and applications will be prepared for the efficient use of the protocol.**
 

@@ -2,7 +2,7 @@
 
 **Memoristik Projesi, senelerdir hem kullanıcı hem geliştirici olarak karşımıza çıkan bazı problemlerin çözüm yollarını bulmak, kişisel haklarımızı korumaya çalışmak, elimizin altındaki teknolojiyi daha verimli kullanmak, üretilen verilerin paylaşımını ve işlevselliğini artırmak gibi sebeplerle ortaya çıktı.**
 
-**Bu ve benzeri amaçlarla, çalışma gruplarının oluşturulması, farklı alanlarda geliştirilmiş açık kaynaklı projelerin bir araya getirilmesi, kullanıma ve amaca uygun şekilde değişiklikler yapılması, eksik olanların tamamlanması, RFC'lerin hazırlanması ve ___yeni bir İnternet Protokolünün kullanıma sokulması___ planlanmaktadır.**
+**Bu ve benzeri amaçlarla, çalışma gruplarının ve ortamının oluşturulması, farklı alanlarda geliştirilmiş açık kaynaklı projelerin bir araya getirilmesi, kullanıma ve amaca uygun şekilde değişiklikler yapılması, eksik olanların tamamlanması, RFC'lerin hazırlanması ve ___yeni bir İnternet Protokolünün kullanıma sokulması___ planlanmaktadır.**
 
 **Teknik altyapının tamamlanması ve oluşturulan protokolün kullanılmaya başlanması sonrasında, farklı gruplar kurularak Kimlik, Akademi, Medya, Sürdürülebilirlik, İletişim, Güvenilir & Takip Edilebilir Kaynaklar gibi konularda eğitim ve veri paylaşımı çalışmalarının başlatılması, protokolün verimli kullanımı için uygulamalar hazırlanması öngörülmektedir.**
 
