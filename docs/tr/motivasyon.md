@@ -56,3 +56,11 @@
     Çoğunlukla bağımsız, bireysel kişiler tarafından ortaklaşa oluşturulan veriler, farklı kurum ve şirketler tarafından sahipleniliyor ve bu bilgiyi ortaya koyan kişilerin özgürce kullanmasına izin verilmiyor. Farklı ortamlarda ve farklı şekillerde ortaya çıkan bu veriler karşılaştırmalı olarak ele alınamaz duruma geldi.
     
     Önceden hiç olmazsa API'ler aracılığıyla yapılabilir durumda olan bu işlemler gün geçtikçe bahsedilen ortam sahipleri tarafından engellenir duruma geldi.
+
+- ### Doğrulanabilir Kimlik Bilgileri, Anonimlik Hakkı
+
+    İnternet kullanıcılarının en önemli haklarından birisi istediği zaman anonim kalabilmektir. Hem Anonimlik Hakkı hem de gerektiği durumlarda kullanılabilecek olan gerçek kimlik kullanımı henüz tam çözüme ulaşabilmiş ve netleşmiş konular değil.
+    
+    Kimlik Doğrulama Yöntemleri ve doğrulayanların güvenilirliği öncelikli olarak çözülmesi ve netleştirilmesi gereken konular.
+    
+    Ayrıca, doğrulanmış ve güvenilirliği ortaya koyulmuş bilgilerin ne kadarı, kimlerle, ne şekilde paylaşılacak soruları da tam olarak kesin cevaplara ulaşmış değil.

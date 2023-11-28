@@ -58,3 +58,11 @@ Many issues that have become habitual and considered as must-haves during the in
     This data, which emerges in different environments and in different ways, has become incapable of being managed comparatively.
     
     What used to be possible at least through APIs is now being blocked by the owners of these environments.
+
+- ### Verifiable Credentials, Right to Anonymity
+
+    One of the most important rights of Internet users is to remain anonymous at any time. Both the right to anonymity and the use of real identity, which can be used when necessary, are not yet fully resolved and clarified.
+
+    Authentication methods and the reliability of authenticators are issues that need to be resolved and clarified first.
+
+    In addition, the questions of how much, with whom and how to share verified and trustworthy information have not yet been answered.
