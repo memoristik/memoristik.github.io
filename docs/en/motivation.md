@@ -2,6 +2,8 @@
 
 **The Memoristik Project emerged for reasons such as finding solutions to some of the problems we have encountered as both users and developers for years, trying to protect our personal rights, using the technology at our disposal more efficiently and increasing the sharing and functionality of the data produced.**
 
+**For these and similar purposes, it is planned to work on bringing together open source projects developed in different fields, making changes suitable for use, and completing the missing ones.**
+
 ---
 
 ## **Priority Problems**
