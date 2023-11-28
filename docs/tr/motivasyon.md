@@ -4,7 +4,7 @@
 
 **Bu ve benzeri amaçlarla, farklı alanlarda geliştirilmiş açık kaynaklı projelerin bir araya getirilmesi, kullanıma uygun amaçlı değişiklikler yapılması, eksik olanların tamamlanması alanlarında çalışmalar yapılması planlanmaktadır.**
 
-**Teknik altyapının tamamlanması sonrasında, farklı gruplar kurularak oluşturulan protokol üzerinde Kimlik, Akademi, Medya, Sürdürülebilirlik, İletişim gibi konularda eğitim ve veri paylaşımı çalışmalarının başlatılması planlanmaktadır.**
+**Teknik altyapının tamamlanması sonrasında, farklı gruplar kurularak oluşturulan protokol üzerinde Kimlik, Akademi, Medya, Sürdürülebilirlik, İletişim gibi konularda eğitim ve veri paylaşımı çalışmalarının başlatılması, protokolün verimli kullanımı için uygulamalar hazırlanması öngörülmektedir.**
 
 ---
 
