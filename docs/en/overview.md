@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The creation of a multi-layered (multi-level) and open source infrastructure using Web3 & Blockchain technologies and on: 
+The creation of a multi-layered (multi-level) and open source infrastructure using Web3, Blockchain & Merkle Tree technologies and on: 
 
 - Ensuring user rights to all types of data belonging to and created by them and ensuring the security and continuity of this data, 
 - Ensuring data interoperability with each other through serialization and easy, fast and secure access to this data, 
