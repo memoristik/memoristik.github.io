@@ -4,7 +4,7 @@
 
 **For these and similar purposes, it is planned to work on bringing together open source projects developed in different fields, making changes suitable for use, and completing the missing ones.**
 
-**After the completion of the technical infrastructure, it is planned to initiate training and data sharing activities on issues such as Identity, Academy, Media, Sustainability, Communication, and to prepare applications for the efficient use of the protocol.**
+**After the completion of the technical infrastructure, it is planned to initiate training and data sharing activities on issues such as Identity, Academy, Media, Sustainability, Communication, Trusted & Traceable Sources and to prepare applications for the efficient use of the protocol.**
 
 ---
 
