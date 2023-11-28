@@ -1,6 +1,6 @@
 # Overview
 
-## Purpose
+## **Purpose**
 
 The creation of a multi-layered (multi-level) and open source infrastructure using Web3, Blockchain & Merkle Tree technologies and on: 
 
