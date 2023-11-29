@@ -34,7 +34,7 @@ If we summarize some of the problems that will be prioritized while creating the
 
 - ### User Login Procedures, Personal Data, E-Mail
 
-    Many organizations and companies with centralized servers try to collect as much personal information as they can from users and build their own databases. In order to use these services, users log in with their e-mail address at best, even if they don't have to give out other information. Nowadays, this is becoming more and more the case, and users are forced to log in with their email address to read any article or blog post on any site. Users cannot decide for themselves how this collected personal data can be used. 
+    Many organizations and companies with centralized servers try to collect as much personal information as they can from users and build their own databases. In order to use these services, users log in with their e-mail address at best, even if they don't have to give out other information. Nowadays, this is becoming more and more the case, and users are forced to log in with their e-mail address to read any article or blog post on any site. Users cannot decide for themselves how this collected personal data can be used. 
     
     Also another problem is that despite alternative and more secure services of communication have been developed, development of e-mail infrastructure has been slowing down for a long time, has security vulnerabilities and is still being used for these reasons.
     (The domain name problem mentioned above also affects the e-mail system).

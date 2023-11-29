@@ -75,6 +75,5 @@ Protokol altyapısı oluşturulurken öncelik verilecek problemlerden bazıları
 
 - ### Bildirimler & Haber Kaynakları
 
-    Kullanıcılar herhangi bir konuda bildirim alabilmek için servis sahibinin tercih ettiği farklı sosyal medya hesapları, mesajlaşma ve sohbet uygulamaları, SMS, Eposta sistemlerinden birisini ayrı ayrı kullanmak zorunda kalıyor. Bazı bildirimlere erişebilmek için kişisel telefon numaralarının verilmesi bile gerekebiliyor.
-
+    Kullanıcılar herhangi bir konuda bildirim alabilmek için servis sahibinin tercih ettiği farklı sosyal medya hesapları, mesajlaşma ve sohbet uygulamaları, SMS, E-posta sistemlerinden birisini ayrı ayrı kullanmak zorunda kalıyor. Bazı bildirimlere erişebilmek için kişisel telefon numaralarının verilmesi bile gerekebiliyor.
 
