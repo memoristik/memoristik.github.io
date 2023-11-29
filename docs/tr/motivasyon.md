@@ -10,7 +10,9 @@
 
 ## **Öncelikli Problemler**
 
-İnternet kullanımı sırasında alışkanlık haline gelmiş ve olmazsa olmaz olarak düşünülen pek çok konu kullanıcılar açısından olası riskler taşıyor, problemler yaşatıyor, kullanımı zorlaştırıyor. Bunlardan bazılarını özetleyecek olursak:
+İnternet kullanımı sırasında alışkanlık haline gelmiş ve olmazsa olmaz olarak düşünülen pek çok konu kullanıcılar açısından olası riskler taşıyor, problemler yaşatıyor, kullanımı zorlaştırıyor.
+
+Protokol altyapısı oluşturulurken öncelik verilecek problemlerden bazılarını özetleyecek olursak:
 
 - ### Alan Adları
 

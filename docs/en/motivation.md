@@ -10,7 +10,9 @@
 
 ## **Priority Problems**
 
-Many issues that have become habitual and considered as must-haves during the internet using carry potential risks for users, cause problems and make it difficult to use. If we summarize some of these:
+Many issues that have become habitual and considered as must-haves during the internet using carry potential risks for users, cause problems and make it difficult to use.
+
+If we summarize some of the problems that will be prioritized while creating the protocol infrastructure:
 
 - ### Domain Names
 
