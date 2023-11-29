@@ -77,13 +77,13 @@ extra:
       link: https://discord.gg/3PHfMgzhSp
   alternate:
     - name: Türkçe
-      link: /tr/
+      link: /tr/genel/
     - name: English
-      link: /en/
+      link: /en/overview/
     - name: Қазақша
-      link: /kz/
+      link: /kz/zhalpy/
     - name: Русский
-      link: /ru/
+      link: /ru/obshchiy/
 
 nav:
   - "Türkçe":

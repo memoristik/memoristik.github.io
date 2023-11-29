@@ -66,3 +66,13 @@ Many issues that have become habitual and considered as must-haves during the in
     Authentication methods and the reliability of authenticators are issues that need to be resolved and clarified first.
 
     In addition, the questions of how much, with whom and how to share verified and trustworthy information have not yet been answered.
+
+- ### Troll Accounts and Fraud
+
+    Users who do not have sufficient technical knowledge to determine the authenticity and reliability of the people they encounter, especially in financial matters, are at greater risk of being defrauded.
+
+    There is no clear method by which issues such as whether the people they are talking to are troll accounts, whether the sites they are directed to are reliable or not, and who the e-mails they receive are from are resolved.
+
+- ### Notifications & News Feeds
+
+    In order to receive notifications about any issue, users have to use one of the different social media accounts, messaging and chat applications, SMS and E-mail systems preferred by the service owner. It may even be necessary to provide personal phone numbers to access some notifications.

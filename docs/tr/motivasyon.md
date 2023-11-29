@@ -64,3 +64,15 @@
     Kimlik Doğrulama Yöntemleri ve doğrulayanların güvenilirliği öncelikli olarak çözülmesi ve netleştirilmesi gereken konular.
     
     Ayrıca, doğrulanmış ve güvenilirliği ortaya koyulmuş bilgilerin ne kadarı, kimlerle, ne şekilde paylaşılacak soruları da tam olarak kesin cevaplara ulaşmış değil.
+
+- ### Trol Hesaplar ve Dolandırıcılık
+
+    Özellikle finans konularında, karşısındaki kişilerin gerçekliğini ve güvenilirliğini tespit edecek yeterli teknik bilgiye sahip olmayan kullanıcılar, dolandırılma tehlikesiyle daha çok karşı karşıya geliyorlar.
+    
+    Herhangi bir konuda karşılarındaki kişilerin trol hesap olup olmadığı, yönlendirildikleri web sitelerinin güvenilir olup olmadığı, aldıkları e-posta’ların kimlerden geldiği gibi konuların çözüme ulaştırılabildiği belirgin yöntemler netleşmiş değil.
+
+- ### Bildirimler & Haber Kaynakları
+
+    Kullanıcılar herhangi bir konuda bildirim alabilmek için servis sahibinin tercih ettiği farklı sosyal medya hesapları, mesajlaşma ve sohbet uygulamaları, SMS, Eposta sistemlerinden birisini ayrı ayrı kullanmak zorunda kalıyor. Bazı bildirimlere erişebilmek için kişisel telefon numaralarının verilmesi bile gerekebiliyor.
+
+
