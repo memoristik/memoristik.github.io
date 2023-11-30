@@ -35,6 +35,8 @@ Halihazırda kullanımda olan farklı protokol ve altyapıların, oluşturulacak
     >
     > "(List) TV Series" -> "e01648324ef822e2713fe01dc3a56b2b0e00912d"
     >
+    > "(List) TV Dizileri" -> "c01830f432a3accafa83bcc548ec947b10caa91e"
+    >
     > "(List) Soundtrack" -> "099287d6456509d139a65c4e07cf1abb56873721"
     >
     > "(List) Book" -> "68c2d94ee2d424a3204c2366bd5180de67972c17"
@@ -48,21 +50,67 @@ Halihazırda kullanımda olan farklı protokol ve altyapıların, oluşturulacak
     > "Türkçe" -> "b51132e2ea5faf8253cc594cd14a245dfb68a197"
 
 
-    Artık elimizde kimlik numaralarıyla hızlıca sorgulayabileceğimiz bir miktar veri var. Merkle Ağacı yapısını kullanarak da bunları birbirine eşitleyebilir (Language-Lisan) ve listelerin altına eklemeler(Language-Lisans -> English-Turkish) yapabiliriz.
+    Artık elimizde kimlik numaralarıyla hızlıca sorgulayabileceğimiz bir miktar veri var. Merkle Ağacı yapısını kullanarak da bunları birbirine eşitleyebilir (Language=Lisan) ve listelerin altına eklemeler (Language/Lisan -> English/Turkish -> TV Series/TV Dizileri) yapabiliriz.
 
-    Kullanıcılar bu aşamada, şuna benzer takipler yapabilir duruma gelir:
+    Kullanıcılar elimizdeki bu içeriklerle şuna benzer takipler yapabilir duruma gelir:
 
     - "Doctor Who"yla ilgili bir gelişme olunca,
-    - Yeni bir soundtrack albümü çıkınca,
+    - Yeni bir Film Müziği albümü çıkınca ya da Doctor Who'nun film müziği listesine yeni parça eklenince,
     - Yeni bir kitap yayınlanınca ya da sadece Doctor Who'yla ilgili bir kitap yayınlanınca,
     - Takip ettiğim yayın platformuna yeni bir film/dizi gelince,
-    - Doctor Who, takip ettiğim platformlardan birisine eklenince,
+    - Doctor Who, takip ettiğim yayın platformlardan birisine eklenince,
     - Türkçe bir içerik yayınlanınca,
-    - TV Series'e Türkçe bir yayın eklenince,
+    - TV Dizilerine Türkçe bir yayın eklenince,
     - Takip ettiğim bir sanatçının Soundtrack albümü çıkınca,
     vb.
 
+    Buraya kadar verdiğimiz örnekler çoğunlukla kullanıcıların veri eklemesine fazla ihtiyaç duymayan, sabit ve net içeriklere sahip "Çekirdek Veritabanı" işlemlerinden oluşuyor.
 
-- ## Sabit Kimlik & Giriş Kartı
+    Kimlik numaraları üzerinden içerik erişiminin sağlanması, dağıtık yapıdaki sunuculara kolayca bölünebilmesi açısından önemli. Böylelikle metin içeren bütün verilerin alınmasına gerek kalmadan daha hızlı erişim sağlanabilir.
+
+    Kullanıcılar, Çekirdek Veritabanında oluşturulmuş kimlik verilerini ya da hazırlanmış listeleri kullanarak kendi özel ya da halka açık listelerini oluşturabilirler, başkalarının hazırladığı listelerden faydalanabilirler.
+
+    Örnek olarak,
+
+    - Kişisel film, müzik, kitap vb. listeler,
+    - Aktiviteler,
+    - Belirli bir konu üzerinde odaklanmış listeler,
+    - Diğer listelere yeni maddeler eklemek,
+    - Kullanmak istediği kadar veriyi süzüp, yeni listeler oluşturabilmek,
+
+    Hem kim tarafından hazırlandığı hem de çakışmaların önlenmesi amacıyla, kullanıcılar tarafından oluşturulan aynı isimli listeler, farklı kimlik numaralarına sahip olur,
+
+    > (Memoristik Kullanıcısı) TV Dizileri" -> "3388ccadcaecab0383f1cb9bc6a8e9e3043063b7"
+
+    (Daha fazla örnek kullanım için: [Kullanım Alanları ve Örnekler](/tr/ornekler/))
+
+- ## diDb Adaptasyonu
+
+    Projenin en önemli amaçlarından birisi, farklı platformlar üzerinden diDb sistemine erişimin sağlanabilmesi için var olan protokol ve servisler üzerinde geliştirmeler yapmak.
+
+    Kullanılabilecek teknik altyapılar sistem geliştiricileri tarafından tartışılıp kararlaştırılmak üzere, örnek bir kullanım şuna benzer bir şekilde olacak:
+
+    Markdown/HTML Dokümanlar üzerinde,
+
+    **{@kişiadı}** : Sabit Kimlik edinmiş ve diDb kaydı olan kişiler için,
+    
+    **{@#kişiadı}** : {@kişiadı} kimliğine sahip kişilere hashtag oluşturmak için,
+    
+    **{#konu}** : Herhangi bir konuda hashtag oluşturmak ve diDb bağlantısıyla (destekleyen) platformların hepsinden veri alabilmek için,
+    
+    **{!konu}** : diDb'deki Çekirdek Veritabanında oluşturulan ana başlıklara erişmek için,
+
+    Örneğin, bir kullanıcı kullandığı yazılımında ayarlamalar yaptıktan sonra, herhangi bir web sitesi üzerinde karşılaştığı şöyle bir cümle için,
+
+    "{#doctorwho} 60 yaşında..."
+
+    diDb'den sadece "yayınlandığı platform, yayın günü" bilgilerini listeleyebilir, kullandığı yazılıma bağlı olarak, link üzerinde tıkladığında pop-up açılabilir.
+
+    Ya da {!music:band:megadeth:tour:türkiye} gibi bir sorguyu bildirimlerine ekleyip bekleyebilir.
+
+    Son örnekteki ilk 3 veri Çekirdek Veritabanından, "tour" verisi de farklı bir listeden alınıyor olabilir. "Tour" verilerinin kaynağını da kullanıcı kendisi belirleyebilir, direk olarak gruptan ya da güvendiği bir hayrandan alabilir örneğin.
+
+
+- ## Sabit Kimlik & Giriş Kartı, Kişiler & Gruplar
 
     Blokzincir teknolojisiyle birlikte hızlanan "Dijital Cüzdan" ve "Doğrulanabilir Kimlik"ler, şimdilik kısıtlı bir şekilde, basit ve sadece ...
