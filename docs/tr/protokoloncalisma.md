@@ -104,13 +104,47 @@ Halihazırda kullanımda olan farklı protokol ve altyapıların, oluşturulacak
 
     "{#doctorwho} 60 yaşında..."
 
-    diDb'den sadece "yayınlandığı platform, yayın günü" bilgilerini listeleyebilir, kullandığı yazılıma bağlı olarak, link üzerinde tıkladığında pop-up açılabilir.
+    Sayfada oluşacak link kişiye özel hale gelir, diDb'den örneğin sadece "yayınlandığı platform, yayın günü" bilgilerini listeleyebilir, kullandığı yazılıma bağlı olarak, link üzerinde tıkladığında pop-up açılabilir.
 
     Ya da {!music:band:megadeth:tour:türkiye} gibi bir sorguyu bildirimlerine ekleyip bekleyebilir.
 
     Son örnekteki ilk 3 veri Çekirdek Veritabanından, "tour" verisi de farklı bir listeden alınıyor olabilir. "Tour" verilerinin kaynağını da kullanıcı kendisi belirleyebilir, direk olarak gruptan ya da güvendiği bir hayrandan alabilir örneğin.
 
 
-- ## Sabit Kimlik & Giriş Kartı, Kişiler & Gruplar
+- ## Dijital Kullanıcı Kimliği Veritabanı - diDMe
 
-    Blokzincir teknolojisiyle birlikte hızlanan "Dijital Cüzdan" ve "Doğrulanabilir Kimlik"ler, şimdilik kısıtlı bir şekilde, basit ve sadece ...
+    **(Sabit Kimlik & Giriş Kartı, Kişiler & Gruplar)**
+
+    Blokzincir teknolojisiyle birlikte hızlanan "Dijital Cüzdan" ve "Doğrulanabilir Kimlik"ler, şimdilik kısıtlı bir şekilde, kullanıldığı ortam sınırları içerisinde çalışmakta.
+
+    Memoristik Projesinin diDMe alt projesinin amacı, var olan cüzdan ve doğrulanabilir kimlikleri, güvenli bir şekilde ve her platformdan erişilebilir biçime getirmek ve kullanıma sokmak. Şimdilik Güvenlik ve Kolay erişim gibi sebeplerle Blokzincir üzerinde geliştirilmesi düşünülmekte.
+
+    diDMe veritabanı üzerinde oluşturulacak olan bu kimlikler, Anonim kalabilme hakkını da içererek, talep eden yerlere sadece gerektiği kadar bilgi gönderecek ve tamamen kullanıcının kendi kontrolünde olacak.
+
+    Güvenlik konusu bu veritabanı için çok önemli olduğundan, kullanıma hazır hale gelene kadar sadece bu konuda yoğunlaşmış bir çalışma grubu tarafından yürütülmesi planlanıyor.
+
+    Amaçlanan hedefe ulaşıldığı zaman, kullanıcılar kendilerine ait her türlü içerik ve veriyi, eş zamanlı olarak sistemi kullanan bütün platformlarda senkron olacak biçimde, kendi istedikleri doğrultuda düzenleyebilecekler.
+
+    Örnek bir kullanım olarak,
+
+    - Telefon No
+    - E-posta
+    - Web adresi
+    - Avatar
+    - Ev adresi
+    - CV
+    vb. kişisel her türlü veriyi tutabilirler.
+
+    İletişim kurmak istedikleri kişiye sadece {@kullanıcı adı} bilgisini vermeleri yeterli olacak. Bu veriler üzerinde her türlü kısıtlama, karşısındaki kişiye belli bir miktarını göstermek gibi yetkileri olacak. Yapılan herhangi bir değişiklik, karşı tarafa eş zamanlı olarak yansıyacak.
+
+    Örneğin, e-posta ya da telefon numarası değiştiğinde, kimseye haber vermek zorunda kalınmayacak.
+
+    Aynı şekilde, farklı sosyal medya hesapları için her birisini tek tek yazmak gerekli olmayacak.
+
+    Kurumlar için de farklı kullanımlar olabilir, {@kurum adı/iletişim}, {@kurum adı/müşteri temsilcisi} şeklinde müşterileri için hızlı erişimler sağlanabilir.
+
+    diDMe sistemi kullanılarak ve güvenilir kurumlar aracılığıyla onaylanmış gerçek kimlikler, diDb ile iletişim kurularak kendi isimleriyle oluşturulmuş hashtag'ler de birbirine bağlanabilir, kullanıcıların kendisini takibi kolaylaşır.
+
+    > (diDMe)/{@memoristik} <-> (diDb){#memoristik}
+
+
