@@ -4,14 +4,14 @@ Halihazırda kullanımda olan farklı protokol ve altyapıların, oluşturulacak
 
 İlk aşamada ele alınacak 3 temel konu için öneriler şu şekilde:
 
-- ## Dijital Kimlik Veritabanı (diDb)
+- ## Dijital Kimlik Veritabanı <span style="color:red">(diDb)</span>
 
     [W3C](https://www.w3.org/) tarafından da onaylanmış ve desteklenmekte olan ["Merkeziyetsiz Kimlik(did)"](https://www.w3.org/TR/did-core/) standardı, hazırlanacak olan bu veritabanının temel düşüncesini oluşturmaktadır.
 
     Memoristik projesinin önem verdiği konulardan birisi olan "minimum miktarda ve hızlı veri aktarımı" sebebiyle, mevcut "did" yapısı üzerinde bazı değişiklikler yapılabilir, metin tabanlı JSON yerine kullanım sırasında Protobuf ya da alternatif sistemlere geçilebilir.
 
     Gerçek kişi ve kurum kimlikleri için oluşturulacak veritabanı Blokzincir üzerinde, diğer her şeye ait kimlikler Merkle Ağacı üzerinde tutularak birbirleriyle iletişimleri sağlanacaktır.
-    (Kişiler için Blokzincir tercih edilmesinin sebebi ["Sabit Kimlik ve Giriş Kartı"](#sabit-kimlik-giris-kart) kısmında açıklanıyor. Tartışma ve Çalışma Gruplarından çıkacak karara göre değişiklik yapılabilir.)
+    (Kişiler için Blokzincir tercih edilmesinin sebebi ["Dijital Kullanıcı Kimliği Veritabanı"](#dijital-kullanc-kimligi-veritaban-didme) kısmında açıklanıyor. Tartışma ve Çalışma Gruplarından çıkacak karara göre değişiklik yapılabilir.)
 
     Herhangi bir nesne ya da konu için, "eşsiz" bir kimlik numarasının belirlenecek olan standartlara göre oluşturulmasının sağlanması öncelikli konulardan birisi.
 
@@ -111,7 +111,7 @@ Halihazırda kullanımda olan farklı protokol ve altyapıların, oluşturulacak
     Son örnekteki ilk 3 veri Çekirdek Veritabanından, "tour" verisi de farklı bir listeden alınıyor olabilir. "Tour" verilerinin kaynağını da kullanıcı kendisi belirleyebilir, direk olarak gruptan ya da güvendiği bir hayrandan alabilir örneğin.
 
 
-- ## Dijital Kullanıcı Kimliği Veritabanı - diDMe
+- ## Dijital Kullanıcı Kimliği Veritabanı <span style="color:red">(diDMe)</span>
 
     **(Sabit Kimlik & Giriş Kartı, Kişiler & Gruplar)**
 
