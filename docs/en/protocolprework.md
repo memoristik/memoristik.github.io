@@ -30,11 +30,11 @@ The recommendations for the 3 main issues to be handled in the first phase are a
     
     > "(List) Language" -> "f595be573723b6e7aadccc36192fcc33a8a5547b"
     >
-    > "(List) Language" -> "e8a2b31e17e7a279fad38eec9c3acd3508d3aecd"
+    > "(List) Lisan" -> "e8a2b31e17e7a279fad38eec9c3acd3508d3aecd"
     >
     > "(List) TV Series" -> "e0164832424ef822e2713fe01dc3a56b2b0e00912d"
     >
-    > "(List) TV Series" -> "c01830f432a3accafa83bcc548ec947b10caa91e"
+    > "(List) TV Dizileri" -> "c01830f432a3accafa83bcc548ec947b10caa91e"
     >
     > "(List) Soundtrack" -> "099287d6456509d139a65c4e07cf1abb56873721"
     >
@@ -46,7 +46,7 @@ The recommendations for the 3 main issues to be handled in the first phase are a
 
     >"English" -> "fb54c64e2c893efc35e89dfdf1192d380cba9fb5"
     >
-    >"Turkish" -> "b51132e2ea5faf8253cc594cd14a245dfb68a197"
+    >"Türkçe" -> "b51132e2ea5faf8253cc594cd14a245dfb68a197"
 
     Now we have some data that we can quickly query by ID numbers. Using the Merkle Tree structure, we can synchronize them (Language=Language) and make additions under the lists (Language/Language -> English/Turkish -> TV Series/TV Series).
 
