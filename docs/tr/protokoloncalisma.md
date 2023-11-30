@@ -135,7 +135,7 @@ Halihazırda kullanımda olan farklı protokol ve altyapıların, oluşturulacak
     - CV
     vb. kişisel her türlü veriyi tutabilirler.
 
-    İletişim kurmak istedikleri kişiye sadece {@kullanıcı adı} bilgisini vermeleri yeterli olacak. Bu veriler üzerinde her türlü kısıtlama, karşısındaki kişiye belli bir miktarını göstermek gibi yetkileri olacak. Yapılan herhangi bir değişiklik, karşı tarafa eş zamanlı olarak yansıyacak.
+    İletişim kurmak istedikleri kişiye sadece **{@kullanıcı adı}** bilgisini vermeleri yeterli olacak. Bu veriler üzerinde her türlü kısıtlama, karşısındaki kişiye belli bir miktarını göstermek gibi yetkileri olacak. Yapılan herhangi bir değişiklik, karşı tarafa eş zamanlı olarak yansıyacak.
 
     Örneğin, e-posta ya da telefon numarası değiştiğinde, kimseye haber vermek zorunda kalınmayacak.
 
