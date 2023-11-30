@@ -88,10 +88,12 @@ extra:
 nav:
   - "Türkçe":
     - "Genel Bakış": "tr/genel.md"
+    - "Protokol Ön Çalışması": "tr/protokoloncalisma.md"
     - "Kullanım Örnekleri": "tr/ornekler.md"
     - "Lisans": "tr/lisans.md"
   - "English":
     - "Overview": "en/overview.md"
+    - "Procotol Pre-Work": "en/protocolprework.md"
     - "Usage Examples": "en/examples.md"
     - "License": "en/license.md"
   - "Қазақша":
