@@ -1,6 +1,3 @@
-<h1 align="center">
-<img src="images/logo.png" width="270">
-<br>Memoristik<br>
-</h1>
+We have moved to GitLab, please follow the link below:
 
-<h2 align="center">biz hallederiz, kendimiz</h2>
+https://memoristik.gitlab.io/
